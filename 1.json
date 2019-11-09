@@ -1,0 +1,28 @@
+    {"nama" : "Refi Ahmad Fauzi",
+    "age" : 19,
+    "address" : "Weningsari RT 03 RW 02 Desa Winduraja Kec.Kawali Kab.Ciamis",
+    "hobbies" : [
+        "Main Game",
+        "Nonton Film",
+        "Design"
+    ],
+    "is_married" : false,
+    "list_school" : [{
+        "name" : "SMK Negeri 1 Kawali",
+        "year_in" : 2015,
+        "year_out" : 2018,
+        "major" : null
+    }],
+    "skill" : [
+		{"skill_name" : "PHP",
+        "level" : "advanced"},
+		{"skill_name" : "CSS/Botstrap",
+        "level" : "advanced"},
+		{"skill_name" : "HTML",
+        "level" : "expert"},
+		{"skill_name" : "Javascript",
+        "level" : "advanced"},
+		{"skill_name" : "MySQL",
+        "level" : "advanced"}
+			  ],
+    "interest_in_coding" : true}
